@@ -8,7 +8,6 @@ import UserPage from './pages/UserPage';
 import RegisterPage from './pages/RegisterPage';
 import LoginPage from './pages/LoginPage';
 import Header from './components/Header';
-import ProductForm from './components/admin/ProductForm';
 
 
 const App = () => {
